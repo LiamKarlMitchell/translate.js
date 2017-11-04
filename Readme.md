@@ -1,6 +1,11 @@
 # translate.js - translates text to different languages, simple as cake
 <img src = "https://github.com/Marak/translate.js/raw/master/logo.png" border = "0"/>
 
+**Note: This library is under rework please see the [modern branch](/Marak/translate.js/tree/modern).**
+
+NPM install modern branch.
+```npm install git://github.com/Marak/translate.js.git#modern```
+
 ## v0.6.0
 
 # USAGE
