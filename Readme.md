@@ -4,7 +4,7 @@
 **Note: This library is under rework please see the [modern branch](/Marak/translate.js/tree/modern).**
 
 NPM install modern branch.
-```npm install git://github.com/Marak/translate.js.git#modern```
+```npm install Marak/translate.js#modern```
 
 ## v0.6.0
 
